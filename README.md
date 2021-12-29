@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Sumit
-- 👀 I’m interested in Science and Technology
-- 🌱 I’m currently pursuing Bachelor's degree in Information Technology.
+
